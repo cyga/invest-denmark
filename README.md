@@ -13,6 +13,17 @@ Current results are as following:
 * In the short-term, a fund performs better than an ETF for usual investment account (not specially taxed as aktiesparekonto (aka ASK)) especially with a low starting base. The main reason for that is that ETFs hit stock top tax after some time only.
 * In the long-term, a fund performs better than an ETF for usual investment account (not specially taxed as aktiesparekonto (aka ASK)) especially with a higher (more realistic) base. The main reason is that we pay taxes on realization and all the years the delayed taxes start to grow significantly.
 
+You can find my calculations and graphs in the `compare.ipynb` Jupyter notebook.
+
+My overall view of the investment plan for long-term investments in Denmark as an expat:
+
+1. Buy ETFs for ratepension scheme annuarly for 65,500 DKK. It's tax-deductible and has special tax treatment.
+2. Buy ETFs for børneopsparing (child savings account) and/or child pension account. They have special tax treatments and low annual limits.
+3. Buy ETFs for aktiesparekonto (ASK) up to its limit (166,200 DKK). It has a special tax treatment (17% annuarly).
+4. Buy passive index funds which pay dividents (and re-invest them, of course) for the rest of the money.
+
+In case of leaving Denmark all these accounts can be left until the period you can use your money. Anyways, it's long-term investments and they still would work left as is.
+
 # Install
 
 ```
