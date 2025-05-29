@@ -26,6 +26,8 @@ In case of leaving Denmark all these accounts can be left until the period you c
 
 # Install
 
+You should have `python` and `virtualenv` tools already installed. Then you can create python's virtual environment to install dependencies and run server for Jupyter notebooks:
+
 ```
 virtualenv venv
 # later:
