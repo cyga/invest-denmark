@@ -10,7 +10,7 @@ There is a comparison to the article with the similar topic: [How to Optimize Yo
 Current results are as following:
 
 * ASK has to be used first. However, it is limited by the value.
-* In the short-term, a fund performs better than an ETF for usual investment account (not specially taxed as aktiesparekonto (aka ASK)) especially with a low starting base. The main reason for that is that ETFs hit stock top tax after some time only.
+* In the short-term, an ETF performs better than a fund for usual investment account (not specially taxed as aktiesparekonto (aka ASK)) especially with a low starting base. The main reason for that is that ETFs hit stock top tax after some time only.
 * In the long-term, a fund performs better than an ETF for usual investment account (not specially taxed as aktiesparekonto (aka ASK)) especially with a higher (more realistic) base. The main reason is that we pay taxes on realization and all the years the delayed taxes start to grow significantly.
 
 You can find my calculations and graphs in the [compare.ipynb](./compare.ipynb) Jupyter notebook.
